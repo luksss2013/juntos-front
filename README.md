@@ -1,7 +1,7 @@
 # next-pwa
 
 This is a Progressive Web App built with React. Main features include -
-
+t
 - Server-side rendering and code splitting (using Next)
 
 - Better Server-rendering performance due to component-caching (using lru-cache)
